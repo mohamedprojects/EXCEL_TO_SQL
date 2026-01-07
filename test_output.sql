@@ -1,0 +1,5 @@
+INSERT INTO users (id, name, email, age, salary, is_active, created_at, notes) VALUES ('1', 'John Doe', 'john@example.com', '30', '50000.5', 'True', '2023-01-15', 'Manager');
+INSERT INTO users (id, name, email, age, salary, is_active, created_at, notes) VALUES ('2', 'Jane Smith', 'jane@example.com', '25', '60000.0', 'True', '2023-02-20', 'Developer');
+INSERT INTO users (id, name, email, age, salary, is_active, created_at, notes) VALUES ('3', 'Bob Johnson', 'bob@example.com', '35', '55000.75', 'False', '2023-03-10', NULL);
+INSERT INTO users (id, name, email, age, salary, is_active, created_at, notes) VALUES ('4', 'Mary O''Connor', 'mary@example.com', '28', '65000.0', 'True', '2023-04-05', 'Designer');
+INSERT INTO users (id, name, email, age, salary, is_active, created_at, notes) VALUES ('5', 'Alice Brown', 'alice@example.com', '32', '70000.0', 'True', '2023-05-12', 'Analyst');
